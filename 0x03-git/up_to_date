@@ -1,3 +1,1 @@
-vim up_to_date
-ESC
-:wq
+echo "" > up_to_date
